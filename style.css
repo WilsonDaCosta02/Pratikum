@@ -1,0 +1,78 @@
+body {
+        font-family: Arial, sans-serif;
+    }
+
+header {
+        background-color: #f0f0f0;
+        padding: 20px;
+        text-align: center;
+    }
+
+nav ul {
+        list-style-type: none;
+        padding: 0;
+        text-align: center;
+    }
+
+nav ul li {
+        display: inline;
+        margin-right: 20px;
+    }
+
+nav ul li a {
+        text-decoration: none;
+        color: blue;
+    }
+
+a:hover {
+    text-decoration: underline;
+    }
+
+section {
+    margin: 20px 0;
+    }
+
+footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    }
+
+.pendidikan {
+    background-color: #f0f0f0;
+    color: rgb(11, 11, 233);
+}
+#tk::first-line {
+    color: black;
+}
+#sd::first-line {
+    color: black;
+}
+#smp::first-line {
+    color: rgb(0, 0, 0);
+}
+#sma::first-line {
+    color: #0c0c0c;
+}
+#biodata {
+    background-color: #f0f0f0;
+    color: #080808;
+}
+.socialmedia a {
+    color: rgb(5, 135, 248);
+}
+
+.skills { 
+    border: 1px solid;
+    border-color: #d0fd05;
+    padding: 5pc;
+    margin: 10px;
+    box-shadow: 0 0 5px;
+}
+
+section {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 20px;
+    box-shadow: 0 0 5px #aaa;
+}
